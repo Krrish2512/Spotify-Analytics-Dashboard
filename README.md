@@ -10,6 +10,10 @@ Welcome to the Spotify Analytics Dashboard repository! This project is dedicated
 4. Song Details: Explore comprehensive details for each song, including artist name, release date, and nuanced acoustic attributes such as acousticness, liveliness, energy, danceability, speechiness, and valence.
 5. Cover Art Integration: Immerse yourself in the visual aesthetics of music with integrated cover pictures for each track, enhancing the user experience and providing a glimpse into the artistic expression behind each piece.
 6. Filter Functionality: Harness the power of interactive filters to tailor your analysis based on specific dates or years, allowing for customizable and focused insights.
+   
+
+   ![image](https://github.com/Krrish2512/Spotify-Analytics-Dashboard/assets/99977228/7d513ab2-9fa8-493d-85b6-f19c5261f16b)
+
 
 **Technologies Used:**
 1. Power BI: The backbone of our analytics solution, enabling robust data visualization, exploration, and interactive insights.
@@ -21,3 +25,6 @@ Welcome to the Spotify Analytics Dashboard repository! This project is dedicated
 This repository thrives on collaboration and community contributions. Whether you're an experienced data analyst, a passionate music enthusiast, or a curious developer, there are ample opportunities to contribute to the project's growth and evolution. Fork the repository, implement enhancements, address issues, or propose new features—your creativity and expertise are valued contributions to our shared journey of exploring the fascinating world of Spotify analytics.
 
 Join us in unraveling the intricate tapestry of music data, uncovering hidden insights, and shaping the future of Spotify analytics!
+
+
+
