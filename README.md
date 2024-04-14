@@ -1,7 +1,7 @@
 # Spotify Analytics Dashboard
 
 **Description:**
-Welcome to the Spotify Analytics Dashboard repository! This project is dedicated to providing users with an immersive and insightful analysis of Spotify track data through an interactive Power BI dashboard. Our goal is to empower users to explore and understand the trends and patterns in music consumption spanning from the early 1930s to the present day, encompassing a vast array of genres, artists, and cultural phenomena.
+Welcome to the Spotify Analytics Dashboard repository! This project is dedicated to providing users with an immersive and insightful analysis of Spotify track data through an interactive Power BI dashboard. Our goal is to empower users to explore and understand the trends and patterns in music consumption spanning from the early 1930s to 2023, encompassing a vast array of genres, artists, and cultural phenomena.
 
 **Key Features:**
 1. Time-spanning Insights: Gain a holistic view of music trends over time, from the classics of yesteryears to the latest chart-toppers.
@@ -12,7 +12,7 @@ Welcome to the Spotify Analytics Dashboard repository! This project is dedicated
 6. Filter Functionality: Harness the power of interactive filters to tailor your analysis based on specific dates or years, allowing for customizable and focused insights.
    
 
-   ![image](https://github.com/Krrish2512/Spotify-Analytics-Dashboard/assets/99977228/7d513ab2-9fa8-493d-85b6-f19c5261f16b)
+![image](https://github.com/Krrish2512/Spotify-Analytics-Dashboard/assets/99977228/7b5ecbbe-207a-4850-b4bd-3f30b657ea05)
 
 
 **Technologies Used:**
